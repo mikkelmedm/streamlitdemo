@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-# fuck fuck fuck fuck
 """
 # My first app
 Here's our first attempt at using data to create a table:
