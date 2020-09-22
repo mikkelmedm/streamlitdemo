@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 """
-# James Bond, Klisterbånd wuuuh
+# James Bond, Klisterbånd
 Here's our first attempt at using data to create a table:
 """
 
